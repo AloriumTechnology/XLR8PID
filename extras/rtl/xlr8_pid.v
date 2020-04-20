@@ -21,7 +21,7 @@
 //                    first, then the control register with the desired channel indicated and
 //                    both the enable and update bits set
 //
-// Copyright 2017, Superion Technology Group. All Rights Reserved
+// Copyright 2019, Alorium Technology. All Rights Reserved
 /////////////////////////////////
 
 module xlr8_pid

@@ -31,7 +31,7 @@
 // first two boards. Those that are used by the Hinj bord are marked
 // as such and should not be used if you are targeting the hinj board.
 //
-// Copyright 2017, Superion Technology Group. All Rights Reserved
+// Copyright 2019, Alorium Technology. All Rights Reserved
 //----------------------------------------------------------------------
 
 //======================================================================
