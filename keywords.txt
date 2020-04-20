@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map XLR8PID
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+XLR8PID	KEYWORD1	XLR8PID
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+disable	KEYWORD2
+enable	KEYWORD2
+reset	KEYWORD2
+SetTunings	KEYWORD2
+Compute	KEYWORD2
+getPv	KEYWORD2
+setPv	KEYWORD2
+getKp	KEYWORD2
+setKp	KEYWORD2
+getKi	KEYWORD2
+setKi	KEYWORD2
+getKd	KEYWORD2
+setKd	KEYWORD2
+getSp	KEYWORD2
+setSp	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
