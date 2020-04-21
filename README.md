@@ -1,7 +1,5 @@
 # XLR8PID
 
-## Accelerated PID Library for Arduino
-
 This repo contains the software library and Verilog rtl source code for the Alorium Technology PID Control Xcelerator Block (XB).  
 
 The PID XB is intended for use with [Alorium Technology's](https://www.aloriumtech.com/) XLR8 family of boards - [XLR8](https://www.aloriumtech.com/xlr8), [Snō](https://www.aloriumtech.com/sno), and [Hinj](https://www.aloriumtech.com/hinj) - as part of the [OpenXLR8 flow](https://www.aloriumtech.com/openxlr8) for creating custom FPGA images.
